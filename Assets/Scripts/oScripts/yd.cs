@@ -1,0 +1,38 @@
+﻿using UnityEngine;
+using System.Collections;
+
+public class yd : MonoBehaviour
+{
+    public int frame;
+    int destroyY;     private Rigidbody2D rb; 
+
+    void Start()
+    {
+        rb = GetComponent<Rigidbody2D>();
+
+        frame = 0;
+    }
+
+    IEnumerator Example()
+    {
+        rb.velocity = new Vector2(0, 9);
+
+        Destroy(gameObject, .2f); 
+        yield return new WaitUntil(() => frame >= 12);
+        destroyY = 0; 
+
+    }
+
+    void Update()
+    {
+        //Debug.Log("Frame: " + frame);
+        //Debug.Log("DestroyY: " + destroyY);
+        destroyY = PlayerPrefs.GetInt("destroyY"); 
+    
+        if (destroyY == 1)
+        {
+StartCoroutine(Example());
+    frame++;
+        }
+    }
+}

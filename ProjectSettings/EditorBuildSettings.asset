@@ -1,0 +1,545 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Title.unity
+    guid: f125a02aee4804af4818d9878d799450
+  - enabled: 1
+    path: Assets/Scenes/Blue1.unity
+    guid: 08c915882799342939e03735cbe67fb8
+  - enabled: 1
+    path: Assets/Scenes/Blue2.unity
+    guid: 8f503d3b2d791433ab76208850983511
+  - enabled: 1
+    path: Assets/Scenes/Blue3.unity
+    guid: 55468c3873c7f485783fb529c462555e
+  - enabled: 1
+    path: Assets/Scenes/BlueSelect.unity
+    guid: 3cddbbd058a8d466aaf12ebb5c67aa26
+  - enabled: 1
+    path: Assets/Scenes/buyScene.unity
+    guid: 19fea1b2314424dad81d005ee3b7f525
+  - enabled: 1
+    path: Assets/Scenes/Credit.unity
+    guid: 71224e2a88c4c4b3f8b4f3859d54babb
+  - enabled: 1
+    path: Assets/Scenes/Final_Instructions.unity
+    guid: a4837a00b2aa448a794ffb1c7119e56c
+  - enabled: 1
+    path: Assets/Scenes/Final_Level.unity
+    guid: b318ae1e9ef464cc2a598ad22fbdc236
+  - enabled: 1
+    path: Assets/Scenes/Final_Level_2.unity
+    guid: e9835085eb1db49e28b7fe5ddcf39b33
+  - enabled: 1
+    path: Assets/Scenes/Final_Level_3.unity
+    guid: 2897509f8d49c48cabbc104a7778acef
+  - enabled: 1
+    path: Assets/Scenes/Final_Level_4.unity
+    guid: 4b1a1df88149b451b82dcbeb492e7fee
+  - enabled: 1
+    path: Assets/Scenes/Final_Level_5.unity
+    guid: acf2f8166de314145b3e641b6a7095da
+  - enabled: 1
+    path: Assets/Scenes/Final_Level_6.unity
+    guid: f23cb11c4df694742907cc30fd0c6149
+  - enabled: 1
+    path: Assets/Scenes/Final_Level_7.unity
+    guid: 7d5904060e451472b814cbf2a701c7b7
+  - enabled: 1
+    path: Assets/Scenes/GameScene.unity
+    guid: 993485857611b4eb78fba8dfc425dd86
+  - enabled: 1
+    path: Assets/Scenes/Green1.unity
+    guid: 0a6ca1360b1814c3da5265375076315d
+  - enabled: 1
+    path: Assets/Scenes/Green2.unity
+    guid: c7119fea195aa47d2b6b2bc070b90d8e
+  - enabled: 1
+    path: Assets/Scenes/Green3.unity
+    guid: e76a3a1ad54d84d919f26c6df224c490
+  - enabled: 1
+    path: Assets/Scenes/GreenSelect.unity
+    guid: 56e419654cc77481c8129899b61cd997
+  - enabled: 1
+    path: Assets/Scenes/Indigo1.unity
+    guid: e8a5a23b4cd1844adb8b64dfb7c0cbb3
+  - enabled: 1
+    path: Assets/Scenes/Indigo2.unity
+    guid: 4a0f7eabb8cda4e26b259cb853f27141
+  - enabled: 1
+    path: Assets/Scenes/Indigo3.unity
+    guid: d1f905a76a46b4fd28f8ddb3989c44be
+  - enabled: 1
+    path: Assets/Scenes/IndigoSelect.unity
+    guid: c982d062138cd4cd0a3149f944f586b7
+  - enabled: 1
+    path: Assets/Scenes/Information.unity
+    guid: 9560c1dbf13574d109e346d615923853
+  - enabled: 1
+    path: Assets/Scenes/InformationB.unity
+    guid: 18a3b139d45244c889fd30cc7a9c0ae2
+  - enabled: 1
+    path: Assets/Scenes/InformationG.unity
+    guid: ee0fa13eb076c44d79eb983b51b1660b
+  - enabled: 1
+    path: Assets/Scenes/InformationI.unity
+    guid: a56027a6e097f4295bec1e379e37d3e8
+  - enabled: 1
+    path: Assets/Scenes/InformationO.unity
+    guid: e66737fdd212649b6a43c59f2dc247f7
+  - enabled: 1
+    path: Assets/Scenes/InformationV.unity
+    guid: 7d32d81e5c22a47259d3da05cb654dbb
+  - enabled: 1
+    path: Assets/Scenes/InformationY.unity
+    guid: 14a9cfbc1c59a40fb94ed8d649d62492
+  - enabled: 1
+    path: Assets/Scenes/Level1.unity
+    guid: e4ba526abbc544c4caee16d0ca18fc19
+  - enabled: 1
+    path: Assets/Scenes/Level2.unity
+    guid: 4a05b2c6285014078898ccfa1facaa29
+  - enabled: 1
+    path: Assets/Scenes/Level3.unity
+    guid: 24143c9ed676f4777bdde04497457d04
+  - enabled: 1
+    path: Assets/Scenes/Level4.unity
+    guid: 4e33b47d8fd9b47b6a5b4e1e43d68b5c
+  - enabled: 1
+    path: Assets/Scenes/Orange2.unity
+    guid: 4b6810189327443068ca5d4fbbd97d23
+  - enabled: 1
+    path: Assets/Scenes/Orange3.unity
+    guid: f37d823f9a0044ea4ba9828a7c4b8903
+  - enabled: 1
+    path: Assets/Scenes/OrangeSelect.unity
+    guid: 7dfce77cb735b455caf0c3030bb58b5c
+  - enabled: 1
+    path: Assets/Scenes/Red Shop.unity
+    guid: 583ac7d6cd14a4f3c9fe88d69e24448e
+  - enabled: 1
+    path: Assets/Scenes/RedSelect.unity
+    guid: 8be6ea574057e4334a0a3309f46da9d2
+  - enabled: 1
+    path: Assets/Scenes/ShopControl.unity
+    guid: 73407dae9a76a45c7af8f98ff6e02c66
+  - enabled: 1
+    path: Assets/Scenes/ShopOrange.unity
+    guid: 444a15f500e904c55b272598b5f90c56
+  - enabled: 1
+    path: Assets/Scenes/StageSelect.unity
+    guid: 066e60f60cd7d4ce2bab9955c6e6f77d
+  - enabled: 1
+    path: Assets/Scenes/Tester.unity
+    guid: 307bdcc0cfa874c8d835a95e0e2ce67b
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: f8013771a19ac4ee69accf35a7376714
+  - enabled: 1
+    path: Assets/Scenes/Violet1.unity
+    guid: f88397af389994b83beae31bb6bb6e0f
+  - enabled: 1
+    path: Assets/Scenes/Violet2.unity
+    guid: 535654668da9747f4bc303f82865e96a
+  - enabled: 1
+    path: Assets/Scenes/Violet3.unity
+    guid: bbed9f75e45aa440dbe9e572670bb670
+  - enabled: 1
+    path: Assets/Scenes/VioletSelect.unity
+    guid: edf91c2da70ef41d5b907d7d5adc29a9
+  - enabled: 1
+    path: Assets/Scenes/Win1.unity
+    guid: 58f7ad081206d4fc8a56ad6537b037af
+  - enabled: 1
+    path: Assets/Scenes/Win2.unity
+    guid: 418f9359ce9374198a0151d7b3d8ca53
+  - enabled: 1
+    path: Assets/Scenes/Win3.unity
+    guid: f588bcb68074d4f5a8f369d1f632f5c2
+  - enabled: 1
+    path: Assets/Scenes/Win4.unity
+    guid: 5efe540e59b4f4be799086a36a7898a4
+  - enabled: 1
+    path: Assets/Scenes/Win5.unity
+    guid: 553d173be937d41bcaebaa80fa98bdb0
+  - enabled: 1
+    path: Assets/Scenes/Win6.unity
+    guid: a6b15a9310e134972805d7e20149fbc8
+  - enabled: 1
+    path: Assets/Scenes/Win7.unity
+    guid: 303ef63a303d34a77887c76cb18b23a0
+  - enabled: 1
+    path: Assets/Scenes/Win8.unity
+    guid: 3cd8b903a51854494add1e78d463c70c
+  - enabled: 1
+    path: Assets/Scenes/Win9.unity
+    guid: 70d692e1221734b97b7d8686ef0a9b55
+  - enabled: 1
+    path: Assets/Scenes/Win10.unity
+    guid: 64380ebb5d8d7440eb7648be67d625c6
+  - enabled: 1
+    path: Assets/Scenes/Win11.unity
+    guid: f229d3c2898fa4e3daa4c3c232c69ab5
+  - enabled: 1
+    path: Assets/Scenes/Win12.unity
+    guid: 591ca3e50ecd7452793793581fdf1a9a
+  - enabled: 1
+    path: Assets/Scenes/Win13.unity
+    guid: 1d996f0f26d5243c18b582fdf6a8d130
+  - enabled: 1
+    path: Assets/Scenes/Win14.unity
+    guid: 68ae183d67af547cc93ed370cb649c34
+  - enabled: 1
+    path: Assets/Scenes/Win15.unity
+    guid: f99aaec46d68548d1865d8d796f02dc2
+  - enabled: 1
+    path: Assets/Scenes/Win16.unity
+    guid: f1f82de0357854103b2107ec1acbe5f2
+  - enabled: 1
+    path: Assets/Scenes/Win17.unity
+    guid: 3bf903fe3664d44d287ce366e84e8394
+  - enabled: 1
+    path: Assets/Scenes/Win18.unity
+    guid: 2f6671f7cfc894ac2a5ddefdd340fdfb
+  - enabled: 1
+    path: Assets/Scenes/Win19.unity
+    guid: ac5da414600074ae5a1cae05b47a2804
+  - enabled: 1
+    path: Assets/Scenes/Win20.unity
+    guid: 17788849bd76d438e842d4d2dba0defa
+  - enabled: 1
+    path: Assets/Scenes/Win21.unity
+    guid: 20c67038dd19b43c490506d86327f4aa
+  - enabled: 1
+    path: Assets/Scenes/Yellow.unity
+    guid: 0a53760293e174bea8abcc7332fd53fc
+  - enabled: 1
+    path: Assets/Scenes/Yellow2.unity
+    guid: f83b235d100da4fc58cdf5b2316e9e75
+  - enabled: 1
+    path: Assets/Scenes/Yellow3.unity
+    guid: 256c7eeac5c3246dba34ef9cd1c64a64
+  - enabled: 1
+    path: Assets/Scenes/YellowSelect.unity
+    guid: bcbbc67c7264b44f9b9d3ad4d1b1b0f9
+  - enabled: 1
+    path: Assets/Scenes/oscenes/bStageSelect.unity
+    guid: 5c3917b028279474b8da9282c6c8e8e4
+  - enabled: 1
+    path: Assets/Scenes/oscenes/gStageSelect.unity
+    guid: 71c556f585caa4eb4ba1975cc1c6f1b2
+  - enabled: 1
+    path: Assets/Scenes/oscenes/iBlue1.unity
+    guid: b88285f52ef4b4800a851ed40af43520
+  - enabled: 1
+    path: Assets/Scenes/oscenes/iBlue2.unity
+    guid: 90ce10efc0de640199fefbb67f61e0ac
+  - enabled: 1
+    path: Assets/Scenes/oscenes/iBlue3.unity
+    guid: 9049d93002308458191f17dbc4637831
+  - enabled: 1
+    path: Assets/Scenes/oscenes/iBlueSelect.unity
+    guid: 22faf163385a14977862afff3947fc55
+  - enabled: 1
+    path: Assets/Scenes/oscenes/iGreen1.unity
+    guid: 692abaf70315f4a8a912d32fde34b725
+  - enabled: 1
+    path: Assets/Scenes/oscenes/iGreen2.unity
+    guid: b69adf87eb9ca491fb962275bea3ab72
+  - enabled: 1
+    path: Assets/Scenes/oscenes/iGreen3.unity
+    guid: 21b8803c393d94c56ba92e804f6121f2
+  - enabled: 1
+    path: Assets/Scenes/oscenes/iGreenSelect.unity
+    guid: 37988d07beb8b4c5cb90469009519420
+  - enabled: 1
+    path: Assets/Scenes/oscenes/iIndigo1.unity
+    guid: c32a5ba51253049d48cdf35132c19d00
+  - enabled: 1
+    path: Assets/Scenes/oscenes/iIndigo2.unity
+    guid: e5bc811414a6e4e849f0f85190572d71
+  - enabled: 1
+    path: Assets/Scenes/oscenes/iIndigo3.unity
+    guid: 020f79e2178b140378b11eb44c33d756
+  - enabled: 1
+    path: Assets/Scenes/oscenes/iIndigoSelect.unity
+    guid: 2c33a6d14d2584814888928e94b86548
+  - enabled: 1
+    path: Assets/Scenes/oscenes/iLevel1.unity
+    guid: 26c27f0751c62449b9f7df4271613e53
+  - enabled: 1
+    path: Assets/Scenes/oscenes/iLevel2.unity
+    guid: c7b94cfdb4e0b47d6ac50bb1c05d5926
+  - enabled: 1
+    path: Assets/Scenes/oscenes/iLevel3.unity
+    guid: 0e0fd5b4aea19405693d074a2fc08f6a
+  - enabled: 1
+    path: Assets/Scenes/oscenes/iLevel4.unity
+    guid: 8f1ad858c4c2d438aae94db862ad2eaf
+  - enabled: 1
+    path: Assets/Scenes/oscenes/iOrange2.unity
+    guid: 69388eb41d1fa41d390f28521f2f9731
+  - enabled: 1
+    path: Assets/Scenes/oscenes/iOrange3.unity
+    guid: 12398b3b418f5430596a40f97fcc3887
+  - enabled: 1
+    path: Assets/Scenes/oscenes/iOrangeSelect.unity
+    guid: e2aeb3b6aa875456bb843b9e39261c41
+  - enabled: 1
+    path: Assets/Scenes/oscenes/iRedSelect.unity
+    guid: c0c64939e9aab4caeb258c68c5674d40
+  - enabled: 1
+    path: Assets/Scenes/oscenes/iStageSelect.unity
+    guid: c6bd320622d17466ca3a809fbbdc4bf3
+  - enabled: 1
+    path: Assets/Scenes/oscenes/iViolet1.unity
+    guid: 9415d2ec7a19c4a4e9351c4f467bb65c
+  - enabled: 1
+    path: Assets/Scenes/oscenes/iViolet2.unity
+    guid: 41d8af3dcfd7948018ffa4c681e38f61
+  - enabled: 1
+    path: Assets/Scenes/oscenes/iViolet3.unity
+    guid: a1fc442757e6d4df183ef1ca378707a7
+  - enabled: 1
+    path: Assets/Scenes/oscenes/iVioletSelect.unity
+    guid: 6b5475392a3874738aea0fe010948917
+  - enabled: 1
+    path: Assets/Scenes/oscenes/iWin1.unity
+    guid: c4a658db60245446280bc1997dff3bed
+  - enabled: 1
+    path: Assets/Scenes/oscenes/iWin2.unity
+    guid: 63db06688e40d4117be7f82feda1e52a
+  - enabled: 1
+    path: Assets/Scenes/oscenes/iWin3.unity
+    guid: 86c10e16414fd49b09f1c48aabddd29c
+  - enabled: 1
+    path: Assets/Scenes/oscenes/iWin4.unity
+    guid: 35069e857c43d4d24b17807f167fd70e
+  - enabled: 1
+    path: Assets/Scenes/oscenes/iWin5.unity
+    guid: cdc07248e93174a18b46a4553bf44fbe
+  - enabled: 1
+    path: Assets/Scenes/oscenes/iWin6.unity
+    guid: 86363d4ac43144f93ba711e39cc086eb
+  - enabled: 1
+    path: Assets/Scenes/oscenes/iWin7.unity
+    guid: ebffd13c85cf944b09856b50785ce954
+  - enabled: 1
+    path: Assets/Scenes/oscenes/iWin8.unity
+    guid: f9e457138ffd04445a689a38f814c175
+  - enabled: 1
+    path: Assets/Scenes/oscenes/iWin9.unity
+    guid: 9d10c0b4a7e744ae489780c7ea23240c
+  - enabled: 1
+    path: Assets/Scenes/oscenes/iWin10.unity
+    guid: d9c57d66657804d9eb29f60d05f9c5b3
+  - enabled: 1
+    path: Assets/Scenes/oscenes/iWin11.unity
+    guid: cac7b5a5946024497a3c112beae33781
+  - enabled: 1
+    path: Assets/Scenes/oscenes/iWin12.unity
+    guid: 32d600bfe41904c13a06b9f0718654e3
+  - enabled: 1
+    path: Assets/Scenes/oscenes/iWin13.unity
+    guid: d5787ac97662a4e3aaf7c71eb8eccea3
+  - enabled: 1
+    path: Assets/Scenes/oscenes/iWin14.unity
+    guid: da37d1d757f4f4e8a9c1c724420f4728
+  - enabled: 1
+    path: Assets/Scenes/oscenes/iWin15.unity
+    guid: 907e865b27fe94f978019f6ec119ce49
+  - enabled: 1
+    path: Assets/Scenes/oscenes/iWin16.unity
+    guid: 77ef041aca9484eecb3e86ae529e93c0
+  - enabled: 1
+    path: Assets/Scenes/oscenes/iWin17.unity
+    guid: b6189fbf23fa1412785eef18e0141ae9
+  - enabled: 1
+    path: Assets/Scenes/oscenes/iWin18.unity
+    guid: 99b8c2af0c77f4b3ca7a67b13e0c106d
+  - enabled: 1
+    path: Assets/Scenes/oscenes/iWin19.unity
+    guid: 1dad869303c5d49e19d11b0c6c201a4d
+  - enabled: 1
+    path: Assets/Scenes/oscenes/iWin20.unity
+    guid: 459ae939aec4246fd9e460d11c002abc
+  - enabled: 1
+    path: Assets/Scenes/oscenes/iWin21.unity
+    guid: 2df55156ae8414064b9418150eefb9cf
+  - enabled: 1
+    path: Assets/Scenes/oscenes/iYellow.unity
+    guid: ccacbb00bed3443499ccd15ba5a10041
+  - enabled: 1
+    path: Assets/Scenes/oscenes/iYellow2.unity
+    guid: 705f1fbe221b94fb3998c4b4402cd243
+  - enabled: 1
+    path: Assets/Scenes/oscenes/iYellow3.unity
+    guid: 903408f466da74cfaa139ab06edc6fe4
+  - enabled: 1
+    path: Assets/Scenes/oscenes/iYellowSelect.unity
+    guid: 6d23d11dcb0224709989fdc3a58085ff
+  - enabled: 1
+    path: Assets/Scenes/oscenes/oBlue1.unity
+    guid: 604f1a44a40fa484f817463af9708dba
+  - enabled: 1
+    path: Assets/Scenes/oscenes/oBlue2.unity
+    guid: 5c6bb486f3835449ea1d775eb9d36b6e
+  - enabled: 1
+    path: Assets/Scenes/oscenes/oBlue3.unity
+    guid: ad2fed9bed1764f05b8a994266fe7ba4
+  - enabled: 1
+    path: Assets/Scenes/oscenes/oBlueSelect.unity
+    guid: b41b3f0cf2a174af58b348eb61aa9f13
+  - enabled: 1
+    path: Assets/Scenes/oscenes/oGreen1.unity
+    guid: 705328f95df0e495d8b80272cd8bd806
+  - enabled: 1
+    path: Assets/Scenes/oscenes/oGreen2.unity
+    guid: 5e60a0c8230cb43e1a946bf202cd9a35
+  - enabled: 1
+    path: Assets/Scenes/oscenes/oGreen3.unity
+    guid: 55e1b67d37eb946b6b58eb6fc0e8121c
+  - enabled: 1
+    path: Assets/Scenes/oscenes/oGreenSelect.unity
+    guid: 1cc028c32edf24642989bcd61793c3a1
+  - enabled: 1
+    path: Assets/Scenes/oscenes/oIndigo1.unity
+    guid: 0e5cdb1ab3156459cb0b51c797ef305d
+  - enabled: 1
+    path: Assets/Scenes/oscenes/oIndigo2.unity
+    guid: d6ec4f0617a474f1783cb32b2448ecae
+  - enabled: 1
+    path: Assets/Scenes/oscenes/oIndigo3.unity
+    guid: 75207aea1d75e4da1a8c1d6b2f56e7ad
+  - enabled: 1
+    path: Assets/Scenes/oscenes/oIndigoSelect.unity
+    guid: 61729467d34d74890971df1cd9cc331f
+  - enabled: 1
+    path: Assets/Scenes/oscenes/oLevel1.unity
+    guid: bd78ee70d97544f99a9835f817270fa7
+  - enabled: 1
+    path: Assets/Scenes/oscenes/oLevel2.unity
+    guid: 46b21ffc5dd96449eb517dd467c74968
+  - enabled: 1
+    path: Assets/Scenes/oscenes/oLevel3.unity
+    guid: c0a8d9e26d88449748ee4065111fa00d
+  - enabled: 1
+    path: Assets/Scenes/oscenes/oLevel4.unity
+    guid: 8732fe8351125482ea4e877b2c597a79
+  - enabled: 1
+    path: Assets/Scenes/oscenes/oOrange2.unity
+    guid: de0ecb141fa91451d9dffaf4eb3f8d44
+  - enabled: 1
+    path: Assets/Scenes/oscenes/oOrange3.unity
+    guid: 763fff23f84aa4cc7afdd66c9479dfe6
+  - enabled: 1
+    path: Assets/Scenes/oscenes/oOrangeSelect.unity
+    guid: 38669e6f496ba41f3ba91480b53dfef7
+  - enabled: 1
+    path: Assets/Scenes/oscenes/oRedSelect.unity
+    guid: e82445c55048a43088591070df23bca4
+  - enabled: 1
+    path: Assets/Scenes/oscenes/oStageSelect.unity
+    guid: b5165107a41034083bcbf8c87968bd7e
+  - enabled: 1
+    path: Assets/Scenes/oscenes/oViolet1.unity
+    guid: ab5c920d08a5b448c98717bbae96a5b6
+  - enabled: 1
+    path: Assets/Scenes/oscenes/oViolet2.unity
+    guid: 226c4f062238747f1b5179309ad38cc4
+  - enabled: 1
+    path: Assets/Scenes/oscenes/oViolet3.unity
+    guid: 03c57ea7660a649dfa4225f55373f4f0
+  - enabled: 1
+    path: Assets/Scenes/oscenes/oVioletSelect.unity
+    guid: daf222905b1db4bd6acc16d4f844fdef
+  - enabled: 1
+    path: Assets/Scenes/oscenes/oWin1.unity
+    guid: f2e1a67766fd943fea5222c288c1e08d
+  - enabled: 1
+    path: Assets/Scenes/oscenes/oWin2.unity
+    guid: 09e291351ebc942afadfdbde5ba2a0f1
+  - enabled: 1
+    path: Assets/Scenes/oscenes/oWin3.unity
+    guid: 76070dcadd7c84528905305594b6305d
+  - enabled: 1
+    path: Assets/Scenes/oscenes/oWin4.unity
+    guid: e8f8b0c302dbb4b70833f58a23c161ec
+  - enabled: 1
+    path: Assets/Scenes/oscenes/oWin5.unity
+    guid: 23f03497fe5984ee9a0d9d322e03f46f
+  - enabled: 1
+    path: Assets/Scenes/oscenes/oWin6.unity
+    guid: e94e620c6d43c496ba033b219834d2bf
+  - enabled: 1
+    path: Assets/Scenes/oscenes/oWin7.unity
+    guid: 3e3aabe6a9b95433f8c2cbea69c272c4
+  - enabled: 1
+    path: Assets/Scenes/oscenes/oWin8.unity
+    guid: 3d18c22577f9542acb3f68145f8cb38f
+  - enabled: 1
+    path: Assets/Scenes/oscenes/oWin9.unity
+    guid: 6066ceb61acd84d8cb3d5ac122cdf482
+  - enabled: 1
+    path: Assets/Scenes/oscenes/oWin10.unity
+    guid: 66ac3e99293cd49b087f990b7c467d16
+  - enabled: 1
+    path: Assets/Scenes/oscenes/oWin11.unity
+    guid: f1f4a397e9de84e6f8e1c73f7420bba8
+  - enabled: 1
+    path: Assets/Scenes/oscenes/oWin12.unity
+    guid: d1ec2c3de9df94e2eacca3ff1b25c15d
+  - enabled: 1
+    path: Assets/Scenes/oscenes/oWin13.unity
+    guid: db7c91049ef5e4b45a2d7f94080a0f08
+  - enabled: 1
+    path: Assets/Scenes/oscenes/oWin14.unity
+    guid: 5b2db7aff8e914369ad88e92e36d08e9
+  - enabled: 1
+    path: Assets/Scenes/oscenes/oWin15.unity
+    guid: 86a77e7abb7414497888a65516c30bf4
+  - enabled: 1
+    path: Assets/Scenes/oscenes/oWin16.unity
+    guid: e325bbcc0ac0046a9a52f7111c7d942a
+  - enabled: 1
+    path: Assets/Scenes/oscenes/oWin17.unity
+    guid: c7ae89328ec294071806b70bf5e3afaa
+  - enabled: 1
+    path: Assets/Scenes/oscenes/oWin18.unity
+    guid: b4a962d5f4d3549ea86b80c4c28767a0
+  - enabled: 1
+    path: Assets/Scenes/oscenes/oWin19.unity
+    guid: 7fa35d145e2104777b966e8813d496e0
+  - enabled: 1
+    path: Assets/Scenes/oscenes/oWin20.unity
+    guid: 89e9b8e4dc23a413fb055f1805727629
+  - enabled: 1
+    path: Assets/Scenes/oscenes/oWin21.unity
+    guid: 70c667d7d6aa3481fa8d36c0816f9dba
+  - enabled: 1
+    path: Assets/Scenes/oscenes/oYellow.unity
+    guid: 4790359783fa34060870a81bdf8e6363
+  - enabled: 1
+    path: Assets/Scenes/oscenes/oYellow2.unity
+    guid: ef9a084ddbe7e4239a9d8e2987139d21
+  - enabled: 1
+    path: Assets/Scenes/oscenes/oYellow3.unity
+    guid: fec558ad5d6644b80b8a42f1e26d2ff5
+  - enabled: 1
+    path: Assets/Scenes/oscenes/oYellowSelect.unity
+    guid: 5f85a74f6f3874441bb38ede39ef56aa
+  - enabled: 1
+    path: Assets/Scenes/oscenes/rStageSelect.unity
+    guid: f0e4fac1d121a4ed8b5f04bea3c9581f
+  - enabled: 1
+    path: Assets/Scenes/oscenes/vStageSelect.unity
+    guid: 4a19c5ac1ab594c00b0be6e8427ff8d3
+  - enabled: 1
+    path: Assets/Scenes/oscenes/yStageSelect.unity
+    guid: 808ff7cc0d5c14e84b72b17c436ea031
+  m_configObjects: {}
